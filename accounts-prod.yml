@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank production related APIs "
+  message: "Welcome to EazyBank prod related APIs "
   contactDetails:
     name: "John Doe - Production Owner"
     email: "john@eazybank.com"
